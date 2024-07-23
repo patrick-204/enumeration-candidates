@@ -57,4 +57,12 @@ require 'active_support/all'
     date_applied: 3.days.ago.to_date,
     age: 16
   },
+  {
+    id: 29,
+    years_of_experience: 12,
+    github_points: 1000000,
+    languages: ['JavaScript', 'Ruby'],
+    date_applied: 3.days.ago.to_date,
+    age: 16
+  },
 ]
